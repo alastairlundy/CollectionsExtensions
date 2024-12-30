@@ -7,6 +7,7 @@ Extensions to C# IEnumerables, ICollections, and more to improve them.
 
 ## Features
 *
+
 ## Support 
 This can be added to any .NET Standard 2.0, .NET Standard 2.1, or .NET 8 compatible Application or Library.
 
@@ -14,7 +15,7 @@ This can be added to any .NET Standard 2.0, .NET Standard 2.1, or .NET 8 compati
 
 | Collections Extensions Version series | .NET Targets supported                           | 
 |---------------------------------------|--------------------------------------------------|
-| >= 5.4.0                              | .NET Standard 2.0, .NET Standard 2.1, and .NET 8 |
+| 5.4.0 and newer                       | .NET Standard 2.0, .NET Standard 2.1, and .NET 8 |
 | < 5.4.0                               | .NET 8                                           |
 
 ## License
